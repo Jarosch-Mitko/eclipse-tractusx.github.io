@@ -13,7 +13,7 @@ import Kit3DLogo from '@site/src/components/2.0/Kit3DLogo';
 
 The EU's Carbon Border Adjustment Mechanism (CBAM) sets a fair carbon price on imports of carbon-intensive goods to prevent carbon leakage, meaning the risk that companies relocate production to countries with weaker climate policies, or that EU products are displaced by more emission-intensive imports. CBAM ensures that the carbon cost of imports reflects the same standards applied to domestic EU production.
 
-CBAM applies to the sectors with the highest carbon leakage risk: **cement, iron and steel, aluminum, fertilizers, electricity, and hydrogen**. When fully implemented, it will cover more than 50% of emissions in the sectors subject to the EU Emissions Trading System (ETS). The definitive regime has been in force since 2026, following a transitional phase that ran from October 2023 to the end of 2025.
+CBAM applies to the sectors with the highest carbon leakage risk: **cement, iron and steel, aluminum, fertilizers, electricity, and hydrogen**. When fully implemented, it will cover more than 50% of emissions in the sectors subject to the EU Emissions Trading System (ETS). The definitive regime has been in force since 2026, following a transitional phase that ran from October 2023 to the end of 2025. Further development of the regulation is expected, requiring an update of this KIT. 
 
 **Official Links:** 
 
