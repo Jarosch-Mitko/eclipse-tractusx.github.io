@@ -18,6 +18,7 @@ CBAM applies to the sectors with the highest carbon leakage risk: **cement, iron
 **Official Links:** 
 
 [Carbon Border Adjustment Mechanism](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en)
+
 [CBAM Guidance and Legislation - Taxation and Customs Union](<https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-guidance-and-legislation_en>)
 
 ## Mission and Vision
