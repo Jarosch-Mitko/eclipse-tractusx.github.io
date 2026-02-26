@@ -20,11 +20,11 @@ CBAM applies to the sectors with the highest carbon leakage risk: **cement, iron
 [Carbon Border Adjustment Mechanism](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en)
 [CBAM Guidance and Legislation - Taxation and Customs Union](<https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-guidance-and-legislation_en>)
 
-## Purpose of this KIT
+## Mission and Vision
 
 The Eclipse Tractus-X CBAM KIT provides a standardized, interoperable data infrastructure for exchanging CBAM-relevant embedded emissions data across global supply chains. It enables companies to:
 
-- Collect and validate emissions data at the material and component level using harmonized methodologies.
+- Collect validated emissions data at the material and component level using harmonized methodologies.
 - Automate CBAM data request workflows, reducing administrative burden and ensuring compliance with EU regulations.
 - Integrate upstream and downstream data from suppliers and partners, enabling accurate transmission of embedded emissions data for imported goods.
 - Ensure data sovereignty and security, allowing companies to retain control over sensitive sustainability information while meeting transparency requirements.
