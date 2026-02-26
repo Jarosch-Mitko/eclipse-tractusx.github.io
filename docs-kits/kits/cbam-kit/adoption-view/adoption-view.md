@@ -390,9 +390,9 @@ Throughout the import year, the importer collects shipment-specific data to supp
 
 The steps of purchasing CO₂ certificates and submitting declarations to the official EU CBAM portal are outside the scope of this KIT.
 
-## Year-End Emissions Data Collection
+## Period Closing Emissions Data Collection
 
-In the year following the reporting year, the importer sends requests to all relevant suppliers to collect the actual verified CO₂ emission data for each imported good. The request references the specific business transaction(s) via `businessTransactionDetails` (e.g. invoice number, reference period, net mass) and uses **requestedElements** to explicitly require the full emission-related data blocks from the supplier.
+In the time following the reporting period, the importer sends requests to all relevant suppliers to collect the actual verified CO₂ emission data for each imported good. The request references the specific business transaction(s) via `businessTransactionDetails` (e.g. invoice number, reference period, net mass) and uses **requestedElements** to explicitly require the full emission-related data blocks from the supplier.
 
 The supplier responds with a complete response notification covering, for each good and operator:
 
