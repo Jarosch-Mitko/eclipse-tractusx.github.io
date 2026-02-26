@@ -11,9 +11,13 @@ import Kit3DLogo from '@site/src/components/2.0/Kit3DLogo';
 
 # Introduction
 
-The EU's Carbon Border Adjustment Mechanism (CBAM) sets a fair carbon price on imports of carbon-intensive goods to prevent carbon leakage, meaning the risk that companies relocate production to countries with weaker climate policies, or that EU products are displaced by more emission-intensive imports. CBAM ensures that the carbon cost of imports reflects the same standards applied to domestic EU production.
+The EU's Carbon Border Adjustment Mechanism (CBAM) sets a carbon price on imports of carbon-intensive goods to prevent carbon leakage, meaning the risk that companies relocate production to countries with weaker climate policies, or that EU products are displaced by more emission-intensive imports. CBAM aims to ensure that the carbon cost of imports reflect the same standards applied to domestic EU production.
 
-CBAM applies to the sectors with the highest carbon leakage risk: **cement, iron and steel, aluminum, fertilizers, electricity, and hydrogen**. When fully implemented, it will cover more than 50% of emissions in the sectors subject to the EU Emissions Trading System (ETS). The definitive regime has been in force since 2026, following a transitional phase that ran from October 2023 to the end of 2025. Further development of the regulation is expected, requiring an update of this KIT. 
+EU CBAM applies to the sectors with the highest emission intensity and carbon leakage risk: **cement, iron and steel, aluminum, fertilizers, electricity, and hydrogen**. When fully implemented, it will cover more than 50% of emissions in the sectors subject to the EU Emissions Trading System (ETS). The definitive regime is in force since 2026. 
+
+For two reasons, regular update of this KIT will likely be required:
+- Regulatory specification in the EU is incrementally deployed and refined (and will continue to be for the next years), whilst an incremental expansion of the CBAM goods scope has been envisioned by the EU from the beginning.
+- From 2027, the UK will introduce it's own CBAM, which is pretty comparable to the EU one. Other countries are also in preparations of very similar schemes. This KIT aims to provide a common approach for all of them, as far as feasible.
 
 **Official Links:** 
 
